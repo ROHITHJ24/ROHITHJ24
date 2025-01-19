@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Rohith Midhun J
 - 👀 I’m interested in Developing website and applications 
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently working on mini projects
 -  📫 How to reach me ...johnrohithmidhun@gmail.com
    
 <!---
